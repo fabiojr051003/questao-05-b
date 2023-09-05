@@ -1,0 +1,23 @@
+h1,h2,h3,h4,p{
+    font-family: Arial;
+    }
+body {
+    background-image: linear-gradient(to left, #008080	, #191970	);
+    background-color: brown;
+    }
+h1 { 
+    color: white;
+    text-align: left;
+    }
+h2 {
+    color: #ADFF2F;
+    text-align: left;
+    }
+p {
+    color:aliceblue;
+    text-align: left;
+    }
+h4 {
+    color:aliceblue;
+    text-align: center;
+}
